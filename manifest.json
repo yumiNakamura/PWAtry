@@ -1,0 +1,19 @@
+{
+	"name":"簡易電卓_PWA",
+	"short_name":"簡易電卓",
+	"theme_color": "#fc980c"
+	"background_color": "#fc980c",
+	"icons": [
+       {
+		"src": "/icons/PWAlogo_192.png",
+		"sizes":"192×192",
+		"type": "image/png"
+	}, {
+	"src": "/icons/PWAlogo_120.png",
+	"sizes": "120×120",
+	"type": "image/png"
+	}
+	],
+	"start_url": "/index.html",
+	"display": "standalone",
+}
