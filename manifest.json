@@ -5,11 +5,11 @@
 	"background_color": "#fc980c",
 	"icons": [
        {
-		"src": "/PWAlogo_192.png",
+		"src": "PWAlogo_192.png",
 		"sizes":"192×192",
 		"type": "image/png"
 	}, {
-	"src": "/PWAlogo_120.png",
+	"src": "PWAlogo_120.png",
 	"sizes": "120×120",
 	"type": "image/png"
 	}
